@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning
-
+ 
 ## Domain Proyek
 Industri hiburan anime memiliki ribuan judul dengan berbagai genre. Pengguna sering kali merasa kesulitan untuk menemukan judul baru yang sesuai dengan minat mereka di tengah banyaknya pilihan (*Information Overload*). Sistem rekomendasi menjadi solusi krusial untuk membantu pengguna menavigasi pilihan tersebut secara efisien.
 
